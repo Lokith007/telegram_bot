@@ -3,10 +3,10 @@
     "telegram-mcp": {
       "command": "node",
       "args": [
-        "c:\\Users\\ASUS VIVOBOOK\\Documents\\projects and assg\\twitter-mcp\\telegram-mcp\\build\\index.js"
+        "index.js location"
       ],
       "env": {
-        "TELEGRAM_BOT_TOKEN": "8470088113:AAHSSXOdMEh-NtoelJNeiqAbf1cZUgki4qo"
+        "TELEGRAM_BOT_TOKEN": ""
       }
     }
   }
