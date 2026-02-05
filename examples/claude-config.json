@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "telegram-mcp": {
+      "command": "node",
+      "args": [
+        "c:\\Users\\ASUS VIVOBOOK\\Documents\\projects and assg\\twitter-mcp\\telegram-mcp\\build\\index.js"
+      ],
+      "env": {
+        "TELEGRAM_BOT_TOKEN": "8470088113:AAHSSXOdMEh-NtoelJNeiqAbf1cZUgki4qo"
+      }
+    }
+  }
+}
